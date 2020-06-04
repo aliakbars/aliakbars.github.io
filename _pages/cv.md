@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Artificial Intelligence, The University of Edinburgh, 2016
+* BSc in Informatics, Institut Teknologi Bandung, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2020 - Present: Senior Data Scientist at **eFishery**
+* Feb 2017 - Present: Adjunt Lecturer at **Universitas Al Azhar Indonesia**
+* Apr 2019 - Mar 2020: Lead Data Scientist at **Airy**
+* Oct 2017 - Mar 2019: Data Scientist at **Airy**
+* Sep 2013 - Aug 2015: IT Manager at **Inovasi Sehat Indonesia**
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning
+* Data science
+* Probability & statistics
+* Programming
 
 Publications
 ======
@@ -53,7 +46,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
