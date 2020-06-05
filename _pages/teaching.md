@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Universitas Al Azhar Indonesia
+[Universitas Al Azhar Indonesia](https://uai.aliakbars.id/)
 
 Even 2019/2020
 * [Pattern Recognition](https://github.com/aliakbars/uai-mlpr/tree/master)
