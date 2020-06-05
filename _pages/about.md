@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior data scientist at [eFishery](http://efishery.com/) and an adjunct lecturer at [Universitas Al Azhar Indonesia](https://uai.ac.id/). Prior to that, I was a lead data scientist at [Airy](https://www.airyrooms.com/). My research interests are in machine learning for healthcare and social data science. I obtained an MSc in Artificial Intelligence from [the University of Edinburgh](https://www.ed.ac.uk/) in 2016 and BSc in Informatics from [Institut Teknologi Bandung](https://www.itb.ac.id/) in 2013.
 
-I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbar[dot]id**.
+I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbars[dot]id**.
 
 ## News
 
