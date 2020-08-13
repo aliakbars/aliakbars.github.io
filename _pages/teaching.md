@@ -11,7 +11,7 @@ Even 2019/2020
 * [Pattern Recognition](https://github.com/aliakbars/uai-mlpr/tree/master)
 
 Odd 2019/2020
-* [Data Mining](https://github.com/aliakbars/uai-dm/tree/master)
+* [Data Mining](https://github.com/aliakbars/uai-dm/tree/2019)
 
 Even 2018/2019
 * [Introduction to Statistics](https://github.com/aliakbars/uai-stats)

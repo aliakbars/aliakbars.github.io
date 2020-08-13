@@ -18,8 +18,9 @@ Education
 
 Work experience
 ======
-* Apr 2020 - Present: Senior Data Scientist at **eFishery**
+* Aug 2020 - Present: Data Science Consultant at **HappyFresh**
 * Feb 2017 - Present: Adjunct Lecturer at **Universitas Al Azhar Indonesia**
+* Apr 2020 - Jul 2020: Senior Data Scientist at **eFishery**
 * Apr 2019 - Mar 2020: Lead Data Scientist at **Airy**
 * Oct 2017 - Mar 2019: Data Scientist at **Airy**
 * Sep 2013 - Aug 2015: IT Manager at **Inovasi Sehat Indonesia**
