@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * Nov. 2019 [Visualizing High-Dimensional Data](https://github.com/aliakbars/pycon), PyCon ID 2019, Surabaya, Indonesia
+* Nov. 2019 [Data Science for Business](https://docs.google.com/presentation/d/1wPLIOwBzB3Y5Ev4BlsaKpkcqpig1eHVD6bGM4led_kI/edit#slide=id.p), Digital Talent Scholarship Ministry of ICT, Institut Teknologi Bandung, Bandung, Indonesia
 * Nov. 2019 [AI in Reproductive Medicine](https://docs.google.com/presentation/d/1WLyGfeNpVPfMynzrQMho6c-A5nAJYHOoXU8sluc7gYY/), ICE on IMERI 4.0, Jakarta, Indonesia
 * Sep. 2019 [Feature Selection & Extraction](https://speakerdeck.com/aliakbars/feature-selection-and-extraction), IF4074 Pembelajaran Mesin Lanjut, Institut Teknologi Bandung, Bandung, Indonesia
 * Aug. 2019 [Intro to Data Science: Probabilistic Programming](https://docs.google.com/presentation/d/17XmauQ0dNqRdY1eJrYIuo88opsyoM4M1VGRT9g0P-NU/), Tech-A-Tive, Jakarta, Indonesia
