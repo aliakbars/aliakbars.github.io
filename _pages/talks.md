@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Sep. 2020 [Pattern Recognition in Industry](https://docs.google.com/presentation/d/1oon4EXci4nbQSM9-KHZW556--xMQaSOMJN59Mj-vL_U/edit?usp=sharing), IF5181 Pengenalan Pola, Institut Teknologi Bandung, Bandung, Indonesia
 * Nov. 2019 [Visualizing High-Dimensional Data](https://github.com/aliakbars/pycon), PyCon ID 2019, Surabaya, Indonesia
 * Nov. 2019 [Data Science for Business](https://docs.google.com/presentation/d/1wPLIOwBzB3Y5Ev4BlsaKpkcqpig1eHVD6bGM4led_kI/edit#slide=id.p), Digital Talent Scholarship Ministry of ICT, Institut Teknologi Bandung, Bandung, Indonesia
 * Nov. 2019 [AI in Reproductive Medicine](https://docs.google.com/presentation/d/1WLyGfeNpVPfMynzrQMho6c-A5nAJYHOoXU8sluc7gYY/), ICE on IMERI 4.0, Jakarta, Indonesia
