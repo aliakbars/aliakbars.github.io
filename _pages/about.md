@@ -14,9 +14,11 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Oct 2020: I will give a talk at [PyMCon 2020](https://pymc-devs.github.io/pymcon/)
+* Oct 2020: One paper is accepted at [SustaiNLP 2020](https://sites.google.com/view/sustainlp2020)
 * Sep 2020: I joined [Revolut](https://www.revolut.com/) as a data scientist
 * Aug 2020: I joined [HappyFresh](https://www.happyfresh.com/) as a data science consultant
 * May 2020: My colleagues and I started a new blog on [data visualization](https://grafik.tentangdata.com/)
 * Apr 2020: I joined [eFishery](https://efishery.com/) as a senior data scientist
 * Mar 2020: I gave a short course on [probability](https://www.youtube.com/playlist?list=PLvLX5-kC2DXaUM8eB8vgBbhjtMCLmI3x2)
-* Jan 2020: I joined [my own podcast](https://open.spotify.com/show/68M1vH2k21fsTFibovdYWl?si=rdWYPbMETxa0nZlVxilJ8g)
+* Jan 2020: I started [my own podcast](https://open.spotify.com/show/68M1vH2k21fsTFibovdYWl?si=rdWYPbMETxa0nZlVxilJ8g)

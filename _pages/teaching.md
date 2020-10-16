@@ -7,6 +7,9 @@ author_profile: true
 
 [Universitas Al Azhar Indonesia](https://uai.aliakbars.id/)
 
+Odd 2020/2021
+* [Artifical Intelligence & Machine Learning](https://github.com/aliakbars/uai-ai/)
+
 Even 2019/2020
 * [Pattern Recognition](https://github.com/aliakbars/uai-mlpr/tree/master)
 
