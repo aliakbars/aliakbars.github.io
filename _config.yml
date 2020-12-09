@@ -83,11 +83,11 @@ author:
   name             : "Ali Akbar Septiandri"
   avatar           : "avatar.jpg"
   bio              : "Data Scientist. Lecturer."
-  location         : "Jakarta, Indonesia"
+  location         : "London, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-ht91DUAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "pm@aliakbars.id"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCJvg7v0hwrXwaZP17Gh_O5w/"
+  youtube          : "AliAkbarSeptiandriID"
   wikipedia        :
 
 
