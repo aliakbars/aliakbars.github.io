@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Nov. 2020 [Introduction to Probabilistic Programming with PyMC3](https://docs.google.com/presentation/d/1qG8yi3P9hbTzGhkUS-wpbNjjHSBZNQBk9K-VAH3JCRQ/edit#slide=id.p), PyCon ID 2020, Virtual
 * Oct. 2020 [My Journey in Learning and Relearning Bayesian Statistics](https://discourse.pymc.io/t/my-journey-in-learning-and-relearning-bayesian-statistics-by-ali-akbar-septiandri/5984/3), PyMCon2020, Virtual
 * Sep. 2020 [Pattern Recognition in Industry](https://docs.google.com/presentation/d/1oon4EXci4nbQSM9-KHZW556--xMQaSOMJN59Mj-vL_U/edit?usp=sharing), IF5181 Pengenalan Pola, Institut Teknologi Bandung, Bandung, Indonesia
 * Nov. 2019 [Visualizing High-Dimensional Data](https://github.com/aliakbars/pycon), PyCon ID 2019, Surabaya, Indonesia

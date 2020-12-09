@@ -15,6 +15,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 ## News
 
 * Dec 2020: One extended abstract is accepted at [ML4H Workshop at NeurIPS 2020](https://ml4health.github.io/2020/pages/extended-abstracts.html)
+* Nov 2020: I gave a talk at [PyCon ID 2020](https://pycon.id/speaker/ali-akbar-septiandri)
 * Oct 2020: I gave a talk at [PyMCon 2020](https://pymc-devs.github.io/pymcon/)
 * Oct 2020: One paper is accepted at [SustaiNLP Workshop at EMNLP 2020](https://www.aclweb.org/anthology/2020.sustainlp-1.1.pdf)
 * Sep 2020: I joined [Revolut](https://www.revolut.com/) as a data scientist
