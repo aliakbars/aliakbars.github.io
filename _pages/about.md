@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at [Revolut](https://www.revolut.com/) and an adjunct lecturer at [Universitas Al Azhar Indonesia](https://uai.ac.id/). Prior to that, I was a data scientist at [Airy](https://www.airyrooms.com/), [eFishery](https://efishery.com/), and [HappyFresh](https://www.happyfresh.com/). My research interests are in machine learning for healthcare and social data science. I obtained an MSc in Artificial Intelligence from [the University of Edinburgh](https://www.ed.ac.uk/) in 2016 and BSc in Informatics from [Institut Teknologi Bandung](https://www.itb.ac.id/) in 2013.
+I am a data scientist at [Revolut](https://www.revolut.com/) and an adjunct lecturer at [Universitas Al Azhar Indonesia](https://uai.ac.id/) (currently on leave). Starting from September 2021, I'm taking a part-time PhD programme in Statistical Science at University College London supervised by [Dr Takoua Jendoubi](https://www.ucl.ac.uk/statistics/dr-takoua-jendoubi). Prior to that, I was a data scientist at [Airy](https://www.airyrooms.com/), [eFishery](https://efishery.com/), and [HappyFresh](https://www.happyfresh.com/). My research interests are in machine learning for healthcare and social data science. I obtained an MSc in Artificial Intelligence from [the University of Edinburgh](https://www.ed.ac.uk/) in 2016 and BSc in Informatics from [Institut Teknologi Bandung](https://www.itb.ac.id/) in 2013.
 
 I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbars[dot]id**.
 
 ## News
 
+* Sep 2021: I started doing a part-time PhD in Statistical Science at UCL
 * Dec 2020: One extended abstract is accepted at [ML4H Workshop at NeurIPS 2020](https://ml4health.github.io/2020/pages/extended-abstracts.html)
 * Nov 2020: I gave a talk at [PyCon ID 2020](https://pycon.id/speaker/ali-akbar-septiandri)
 * Oct 2020: I gave a talk at [PyMCon 2020](https://pymc-devs.github.io/pymcon/)

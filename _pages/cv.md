@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+* MPhil/PhD in Statistical Science, University College London, 2028 (expected)
 * MSc in Artificial Intelligence, The University of Edinburgh, 2016
 * BSc in Informatics, Institut Teknologi Bandung, 2013
 
