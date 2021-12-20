@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * Dec. 2021 [Learning Reinforcement Learning with OpenAI Gym](/files/openai.pdf), PyCon ID 2021, Virtual
+* May. 2021 [Data x Actuarial Science](https://docs.google.com/presentation/d/1Jj8vEID-YVI9FQYUUEbBEM8svWGFbyIPNFD1vSZ4th4/edit?usp=sharing), Actuarial Webinar: Why Data Science?, President University, Virtual
 * Mar. 2021 [Bayesian Data Analysis](https://docs.google.com/presentation/d/1D8LBS5MRMCIITOQpQZxIMdbeOlIxUUd3q74c_cOVsHE/edit#slide=id.p), Pacmann.AI Workshop, Virtual
 * Mar. 2021 [Machine Learning in Industry](), Seminar Daring Matematika, Institut Teknologi Sumatera, Virtual
 * Nov. 2020 [Introduction to Probabilistic Programming with PyMC3](https://docs.google.com/presentation/d/1qG8yi3P9hbTzGhkUS-wpbNjjHSBZNQBk9K-VAH3JCRQ/edit#slide=id.p), PyCon ID 2020, Virtual
