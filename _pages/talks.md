@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Sep. 2022 [Something's Missing: Data Imputation in Critical Care Medicine](files/Septiandri-ECR%20CHIMERA.pdf), BioMedEng22 CHIMERA Workshop, London, United Kingdom
+* Aug. 2022 [Computational Thinking](), Microsoft Berpijar, Virtual
 * Dec. 2021 [Learning Reinforcement Learning with OpenAI Gym](/files/openai.pdf), PyCon ID 2021, Virtual
 * May. 2021 [Data x Actuarial Science](https://docs.google.com/presentation/d/1Jj8vEID-YVI9FQYUUEbBEM8svWGFbyIPNFD1vSZ4th4/edit?usp=sharing), Actuarial Webinar: Why Data Science?, President University, Virtual
 * Mar. 2021 [Bayesian Data Analysis](https://docs.google.com/presentation/d/1D8LBS5MRMCIITOQpQZxIMdbeOlIxUUd3q74c_cOVsHE/edit#slide=id.p), Pacmann.AI Workshop, Virtual
