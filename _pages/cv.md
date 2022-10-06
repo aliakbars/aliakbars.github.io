@@ -37,10 +37,12 @@ Skills
 
 Academic Service
 ======
-* Reviewer - ML4H 2021, 2022
+* Reviewer [ML4H](https://ml4health.github.io) 2021, 2022
+* Reviewer [TS4H](https://timeseriesforhealth.github.io/) 2022
 
 Honors & Awards
 ======
+* 3rd (out of 26 teams), Call for Paper SRKP by OJK (Jakarta, Indonesia, 2022)
 * 3rd (out of 58 teams), UKARA 1.0 Challenge Track 1 by NLP Group Universitas Gadjah Mada (Yogya, Indonesia, 2019)
 * Top 5 (out of 498 teams), Go-Hackathon by Go-Jek (Jakarta, Indonesia, 2017)
 * National Winner, Microsoft Imagine Cup World Citizenship Category (Jakarta, Indonesia, 2016)
