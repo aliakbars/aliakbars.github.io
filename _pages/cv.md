@@ -37,8 +37,18 @@ Skills
 
 Academic Service
 ======
-* Reviewer [ML4H](https://ml4health.github.io) 2021, 2022
-* Reviewer [TS4H](https://timeseriesforhealth.github.io/) 2022
+* Reviewer
+  * [ML4H](https://ml4health.github.io) 2021, 2022
+  * [TS4H](https://timeseriesforhealth.github.io/) 2022
+* BSc thesis supervisor
+  * [Aditya P. Dharmawan](https://www.linkedin.com/in/ditzsins/) (2021; co-supervisor: Ade Jamal) - Embryo Image Segmentation with U-Net
+  * [R. Satrio H. Wicaksono](https://www.linkedin.com/in/satriohwicaksono/) (2021; co-supervisor: Ade Jamal) - Human Embryo Classification Using Self-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9574328)]
+  * [Dheannisa R. Putri](https://www.linkedin.com/in/dheann/) (2020; co-supervisor: Ade Jamal) - Acute Lymphoblastic Leukemia Classification in Nucleus Microscopic Images using Convolutional Neural Networks and Transfer Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9574176?casa_token=QcS1LaHqWEIAAAAA:ucaHUbsYIujVqN_Gw8h6lbrMIfFNgPK4cuyvQUZfNuNAL4YrN2_x97SSoURuNE_nxTWw7pk)]
+  * [Jordhy Fernando](https://www.linkedin.com/in/jordhyfernando/) (2019; main supervisor: Masayu Leylia Khodra) - Aspect and Opinion Terms Extraction Using Double Embeddings and Attention Mechanism for Indonesian Hotel Reviews [[paper](https://ieeexplore.ieee.org/document/8904124)] [[dataset](https://huggingface.co/datasets/indonlu)]
+  * [Rayza Al Khensha](https://www.linkedin.com/in/rayza-al-khensha-383039108/) (2019; co-supervisor: Ade Jamal) - Dental X-ray Image Identification Using Deep Learning with Synthetic Post-mortem Images
+  * Umiyati (2018; co-supervisor: Winangsari Pradani) - Graph Convolutional Matrix Completion for Recommendation System
+  * [Nur Asiah](https://www.linkedin.com/in/nur-asiah-608661141/) (2018; co-supervisor: Winangsari Pradani) - Image Quality Assessment with Deep Learning in E-commerce
+  * [Nikmatun A. Salsabila](https://www.linkedin.com/in/nasalsabila/?originalSubdomain=id) (2018; co-supervisor: Ade Jamal) - Slang Word Normalisation on Indonesian Social Media Text [[paper](https://ieeexplore.ieee.org/abstract/document/8629151)] [[dataset](https://github.com/nasalsabila/kamus-alay)]
 
 Honors & Awards
 ======
