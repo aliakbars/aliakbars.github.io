@@ -49,6 +49,7 @@ Academic Service
   * Umiyati (2018; co-supervisor: Winangsari Pradani) - Graph Convolutional Matrix Completion for Recommendation System
   * [Nur Asiah](https://www.linkedin.com/in/nur-asiah-608661141/) (2018; co-supervisor: Winangsari Pradani) - Image Quality Assessment with Deep Learning in E-commerce
   * [Nikmatun A. Salsabila](https://www.linkedin.com/in/nasalsabila/?originalSubdomain=id) (2018; co-supervisor: Ade Jamal) - Slang Word Normalisation on Indonesian Social Media Text [[paper](https://ieeexplore.ieee.org/abstract/document/8629151)] [[dataset](https://github.com/nasalsabila/kamus-alay)]
+  * [Annisa Handayani](https://www.linkedin.com/in/annisahandayani/) (2017; co-supervisor: Ade Jamal) - Breast Cancer Classification Using Machine Learning
 
 Honors & Awards
 ======
