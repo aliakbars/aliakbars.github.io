@@ -19,8 +19,8 @@ Education
 
 Work experience
 ======
-* Sep 2021 - Present: Senior Data Scientist at **Revolut**
-* Sep 2020 - Aug 2021: Data Scientist at **Revolut**
+* Sep 2022 - Present: Senior Data Scientist at **Revolut**
+* Sep 2020 - Aug 2022: Data Scientist at **Revolut**
 * Feb 2017 - Present: Adjunct Lecturer at **Universitas Al Azhar Indonesia**
 * Aug 2020 - Sep 2020: Data Science Consultant at **HappyFresh**
 * Apr 2020 - Jul 2020: Senior Data Scientist at **eFishery**
