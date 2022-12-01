@@ -19,9 +19,10 @@ Education
 
 Work experience
 ======
-* Sep 2022 - Present: Senior Data Scientist at **Revolut**
-* Sep 2020 - Aug 2022: Data Scientist at **Revolut**
+* Dec 2022 - Present: Research Data Scientist at **Nokia Bell Labs**
 * Feb 2017 - Present: Adjunct Lecturer at **Universitas Al Azhar Indonesia**
+* Sep 2022 - Nov 2022: Senior Data Scientist at **Revolut**
+* Sep 2020 - Aug 2022: Data Scientist at **Revolut**
 * Aug 2020 - Sep 2020: Data Science Consultant at **HappyFresh**
 * Apr 2020 - Jul 2020: Senior Data Scientist at **eFishery**
 * Apr 2019 - Mar 2020: Lead Data Scientist at **Airy**
