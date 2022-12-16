@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research data scientist at [Nokia Bell Labs](https://www.bell-labs.com/) and an adjunct lecturer at [Universitas Al Azhar Indonesia](https://uai.ac.id/) (currently on leave). Starting from September 2021, I'm taking a part-time PhD programme in Statistical Science at [University College London](https://www.ucl.ac.uk/) mainly supervised by [Dr Takoua Jendoubi](https://takouajendoubi.github.io/) and [Dr Alejandro Díaz](https://iris.ucl.ac.uk/iris/browse/profile?upi=FADIA90). Prior to that, I was a data scientist at [Revolut](https://www.revolut.com/), [HappyFresh](https://www.happyfresh.com/), [eFishery](https://efishery.com/), and [Airy](https://www.airyrooms.com/). My research interests are in machine learning for healthcare and social data science. I obtained an MSc in Artificial Intelligence from [the University of Edinburgh](https://www.ed.ac.uk/) in 2016 and a BSc in Informatics from [Institut Teknologi Bandung](https://www.itb.ac.id/) in 2013.
+As a research data scientist at [Nokia Bell Labs](https://www.bell-labs.com/) and an adjunct lecturer at [Universitas Al Azhar Indonesia](https://uai.ac.id/), I have a strong background in machine learning and data science. I am currently pursuing a part-time PhD in Statistical Science at [University College London](https://www.ucl.ac.uk/), working under the supervision of [Dr. Takoua Jendoubi](https://takouajendoubi.github.io/) and [Dr. Alejandro Díaz](https://iris.ucl.ac.uk/iris/browse/profile?upi=FADIA90). In the past, I have worked as a data scientist at companies such as [Revolut](https://www.revolut.com/), [HappyFresh](https://www.happyfresh.com/), [eFishery](https://efishery.com/), and [Airy](https://www.airyrooms.com/). My research interests lie in using machine learning for healthcare and social data science. I received my MSc in Artificial Intelligence from the University of Edinburgh in 2016 and my BSc in Informatics from Institut Teknologi Bandung in 2013.
 
 I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbars[dot]id**.
 
 ## News
 
-* Dec 2022: I joined Nokia Bell Labs as a research data scientist
+* Dec 2022: I joined Nokia Bell Labs as a research data scientist, working in the Social Dynamics Team
 * Dec 2021: I gave a talk at [PyCon ID 2021](https://pycon.id/speaker)
 * Sep 2021: I started doing a part-time PhD in Statistical Science at UCL
 * Dec 2020: One extended abstract is accepted at [ML4H Workshop at NeurIPS 2020](https://ml4health.github.io/2020/pages/extended-abstracts.html)
