@@ -14,6 +14,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Apr 2023: One paper is accepted at [ACM FAccT 2023](https://facctconference.org/2023/index.html)
 * Dec 2022: I joined Nokia Bell Labs as a research data scientist, working in the Social Dynamics Team
 * Dec 2021: I gave a talk at [PyCon ID 2021](https://pycon.id/speaker)
 * Sep 2021: I started doing a part-time PhD in Statistical Science at UCL
