@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Aug. 2023 [NLP Beyond Boundaries](https://docs.google.com/presentation/d/1PMRofx1tiyJ3-0xNUIJP4fX4b622iwvvEVTo-3dTkS4/edit?usp=sharing), IF4072 Natural Language Processing, Institut Teknologi Bandung, Bandung, Indonesia
 * Sep. 2022 [Something's Missing: Data Imputation in Critical Care Medicine](/files/Septiandri-ECR%20CHIMERA.pdf), BioMedEng22 CHIMERA Workshop, London, United Kingdom
 * Aug. 2022 [Computational Thinking](), Microsoft Berpijar, Virtual
 * Dec. 2021 [Learning Reinforcement Learning with OpenAI Gym](/files/openai.pdf), PyCon ID 2021, Virtual
@@ -17,7 +18,7 @@ author_profile: true
 * Nov. 2019 [Visualizing High-Dimensional Data](https://github.com/aliakbars/pycon), PyCon ID 2019, Surabaya, Indonesia
 * Nov. 2019 [Data Science for Business](https://docs.google.com/presentation/d/1wPLIOwBzB3Y5Ev4BlsaKpkcqpig1eHVD6bGM4led_kI/edit#slide=id.p), Digital Talent Scholarship Ministry of ICT, Institut Teknologi Bandung, Bandung, Indonesia
 * Nov. 2019 [AI in Reproductive Medicine](https://docs.google.com/presentation/d/1WLyGfeNpVPfMynzrQMho6c-A5nAJYHOoXU8sluc7gYY/), ICE on IMERI 4.0, Jakarta, Indonesia
-* Sep. 2019 [Feature Selection & Extraction](https://speakerdeck.com/aliakbars/feature-selection-and-extraction), IF4074 Pembelajaran Mesin Lanjut, Institut Teknologi Bandung, Bandung, Indonesia
+* Sep. 2019 [Feature Selection & Extraction](https://speakerdeck.com/aliakbars/feature-selection-and-extraction), IF4074 Advanced Machine Learning, Institut Teknologi Bandung, Bandung, Indonesia
 * Aug. 2019 [Intro to Data Science: Probabilistic Programming](https://docs.google.com/presentation/d/17XmauQ0dNqRdY1eJrYIuo88opsyoM4M1VGRT9g0P-NU/), Tech-A-Tive, Jakarta, Indonesia
 * Apr. 2019 [Machine Learning for Healthcare](https://docs.google.com/presentation/d/1OMC_ON6x0JIUX-QbPF3zAP9BCAShSS8AYQA28U9KYYY/), The 3rd OI-IMERI, Jakarta, Indonesia
 * Dec. 2018 [Pemanfaatan Big Data dalam Ekonomi Indonesia Berbasis Digital](https://speakerdeck.com/aliakbars/pemanfaatan-big-data-dalam-ekonomi-indonesia-berbasis-digital), Bank Indonesia Fashion Fest 2018, Samarinda, Indonesia

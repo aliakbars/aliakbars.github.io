@@ -14,6 +14,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Aug 2023: I gave a guest lecture at Institut Teknologi Bandung
 * May 2023: I am giving a contributed talk at [RSS International Conference 2023](https://rss.org.uk/training-events/conference-2023/)
 * Apr 2023: One paper is accepted at [ACM FAccT 2023](https://facctconference.org/2023/index.html)
 * Dec 2022: I joined Nokia Bell Labs as a research data scientist, working in the Social Dynamics Team
