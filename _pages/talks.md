@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Sep. 2023 [Handling Missing Values in Healthcare Settings](/rss23), RSS International Conference 2023, Harrogate, United Kingdom
 * Aug. 2023 [NLP Beyond Boundaries](https://docs.google.com/presentation/d/1PMRofx1tiyJ3-0xNUIJP4fX4b622iwvvEVTo-3dTkS4/edit?usp=sharing), IF4072 Natural Language Processing, Institut Teknologi Bandung, Bandung, Indonesia
 * Sep. 2022 [Something's Missing: Data Imputation in Critical Care Medicine](/files/Septiandri-ECR%20CHIMERA.pdf), BioMedEng22 CHIMERA Workshop, London, United Kingdom
 * Aug. 2022 [Computational Thinking](), Microsoft Berpijar, Virtual
