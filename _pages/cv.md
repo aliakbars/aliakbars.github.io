@@ -13,14 +13,14 @@ redirect_from:
 
 Education
 ======
-* MPhil/PhD in Statistical Science, University College London, 2028 (expected)
+* PhD in Statistical Science, University College London, 2028 (expected)
 * MSc in Artificial Intelligence, The University of Edinburgh, 2016
 * BSc in Informatics, Institut Teknologi Bandung, 2013
 
 Work experience
 ======
 * Dec 2022 - Present: Research Data Scientist at **Nokia Bell Labs**
-* Feb 2017 - Present: Adjunct Lecturer at **Universitas Al Azhar Indonesia**
+* Feb 2017 - Aug 2023: Adjunct Lecturer at **Universitas Al Azhar Indonesia**
 * Sep 2022 - Nov 2022: Senior Data Scientist at **Revolut**
 * Sep 2020 - Aug 2022: Data Scientist at **Revolut**
 * Aug 2020 - Sep 2020: Data Science Consultant at **HappyFresh**

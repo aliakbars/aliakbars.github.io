@@ -14,7 +14,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
-* Sep 2023: I will give a virtual talk at [PyCon ID 2023](https://pycon.id/)
+* Nov 2023: I gave a virtual talk at [PyCon ID 2023](https://pycon.id/)
 * Sep 2023: I gave a contributed talk at [RSS International Conference 2023](/rss23)
 * Aug 2023: I gave a guest lecture at Institut Teknologi Bandung
 * Apr 2023: One paper is accepted at [ACM FAccT 2023](https://dl.acm.org/doi/10.1145/3593013.3593985)
