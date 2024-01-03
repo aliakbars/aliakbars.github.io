@@ -48,6 +48,7 @@ Academic Service
   * [Dheannisa R. Putri](https://www.linkedin.com/in/dheann/) (2020; co-supervisor: Ade Jamal) - Acute Lymphoblastic Leukemia Classification in Nucleus Microscopic Images using Convolutional Neural Networks and Transfer Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9574176?casa_token=QcS1LaHqWEIAAAAA:ucaHUbsYIujVqN_Gw8h6lbrMIfFNgPK4cuyvQUZfNuNAL4YrN2_x97SSoURuNE_nxTWw7pk)]
   * [Jordhy Fernando](https://www.linkedin.com/in/jordhyfernando/) (2019; main supervisor: Masayu Leylia Khodra) - Aspect and Opinion Terms Extraction Using Double Embeddings and Attention Mechanism for Indonesian Hotel Reviews [[paper](https://ieeexplore.ieee.org/document/8904124)] [[dataset](https://huggingface.co/datasets/indonlu)]
   * [Sissy Soraya Faradilla](https://www.linkedin.com/in/sissy-soraya-faradilla-245054108/) (2019; co-supervisor: Ade Jamal) - Human Embryo Classification from Microscopy Images Using Convolutional Neural Networks
+  * [Muhammad Qisty Gani](https://www.linkedin.com/in/muhammad-gani-9183b81a3/) (2019; co-supervisor: Endang Ripmiatin) - Lightweight Computation of Sip Identification
   * [Rayza Al Khensha](https://www.linkedin.com/in/rayza-al-khensha-383039108/) (2019; co-supervisor: Ade Jamal) - Dental X-ray Image Identification Using Deep Learning with Synthetic Post-mortem Images
   * Umiyati (2018; co-supervisor: Winangsari Pradani) - Graph Convolutional Matrix Completion for Recommendation System
   * [Nur Asiah](https://www.linkedin.com/in/nur-asiah-608661141/) (2018; co-supervisor: Winangsari Pradani) - Image Quality Assessment with Deep Learning in E-commerce
@@ -56,6 +57,7 @@ Academic Service
 
 Honors & Awards
 ======
+* Most Impactful Research Paper, RAISE 2023 by Responsible AI Institute (2023)
 * 3rd (out of 26 teams), Call for Paper SRKP by OJK (Jakarta, Indonesia, 2022)
 * 3rd (out of 58 teams), UKARA 1.0 Challenge Track 1 by NLP Group Universitas Gadjah Mada (Yogya, Indonesia, 2019)
 * Top 5 (out of 498 teams), Go-Hackathon by Go-Jek (Jakarta, Indonesia, 2017)

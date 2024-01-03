@@ -14,6 +14,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Dec 2023: Our ACM FAccT 2023 paper was selected as the [Most Impactful Research Paper](https://www.responsible.ai/post/responsible-ai-institute-hosts-annual-raise-event-charting-the-future-of-responsible-ai) by Responsible AI Institute
 * Nov 2023: I gave a virtual talk at [PyCon ID 2023](https://pycon.id/)
 * Sep 2023: I gave a contributed talk at [RSS International Conference 2023](/rss23)
 * Aug 2023: I gave a guest lecture at Institut Teknologi Bandung
