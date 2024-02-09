@@ -59,6 +59,7 @@ Academic Service
 Honors & Awards
 ======
 * Most Impactful Research Paper, RAISE 2023 by Responsible AI Institute (2023)
+* Most Interesting Data Podcast, Jabar Data Viz Festival 2022 by Jabar Digital Service (Bandung, Indonesia, 2022)
 * 3rd (out of 26 teams), Call for Paper SRKP by OJK (Jakarta, Indonesia, 2022)
 * 3rd (out of 58 teams), UKARA 1.0 Challenge Track 1 by NLP Group Universitas Gadjah Mada (Yogya, Indonesia, 2019)
 * Top 5 (out of 498 teams), Go-Hackathon by Go-Jek (Jakarta, Indonesia, 2017)
