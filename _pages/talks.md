@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Feb. 2024 [Breaking Into Global Market, Perspective from the UK](), Night Talk, Kak!, Virtual
-* Feb. 2024 [The Impact of AI Innovations on US Occupations](https://arxiv.org/abs/2312.04714), Brown Bag Seminar Bank Indonesia Institute, Virtual
+* Feb. 2024 [Breaking Into Global Market, Perspective from the UK](), Night Talk, Kak! by ShiftThink, Virtual
+* Feb. 2024 [The Impact of AI Innovations on US Occupations](https://arxiv.org/abs/2312.04714), Brown Bag Seminar, Bank Indonesia Institute, Virtual
 * Nov. 2023 [Learning from tidyverse](https://docs.google.com/presentation/d/1E0b_sWPQWtrye0liRXnHYLA350d4p6js65gZZIgfwEU/edit?usp=sharing), PyCon ID 2023, Bandung, Indonesia
 * Sep. 2023 [Handling Missing Values in Healthcare Settings](/rss23), RSS International Conference 2023, Harrogate, United Kingdom
 * Aug. 2023 [NLP Beyond Boundaries](https://docs.google.com/presentation/d/1PMRofx1tiyJ3-0xNUIJP4fX4b622iwvvEVTo-3dTkS4/edit?usp=sharing), IF4072 Natural Language Processing, Institut Teknologi Bandung, Bandung, Indonesia
