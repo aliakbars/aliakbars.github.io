@@ -40,7 +40,7 @@ Academic Service
 ======
 * Reviewer
   * [ML4H](https://ml4health.github.io) 2021, 2022, 2023
-  * [TS4H](https://timeseriesforhealth.github.io/) 2022
+  * [TS4H](https://timeseriesforhealth.github.io/) 2022, 2024
   * [ICWSM](https://www.icwsm.org/) 2024
   * [IEEE ICISS](https://iciss.goesmart.id/) 2023
 * BSc thesis supervisor
