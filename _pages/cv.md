@@ -19,7 +19,8 @@ Education
 
 Work experience
 ======
-* Dec 2022 - Present: Research Data Scientist at **Nokia Bell Labs**
+* Apr 2024 - Present: Senior Data Scientist at **Revolut**
+* Dec 2022 - Mar 2023: Research Data Scientist at **Nokia Bell Labs**
 * Feb 2017 - Aug 2023: Adjunct Lecturer at **Universitas Al Azhar Indonesia**
 * Sep 2022 - Nov 2022: Senior Data Scientist at **Revolut**
 * Sep 2020 - Aug 2022: Data Scientist at **Revolut**

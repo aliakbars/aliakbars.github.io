@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior NLP data scientist at Nokia Bell Labs. I am also pursuing a part-time PhD in Statistical Science at University College London, working under the supervision of [Dr. Takoua Jendoubi](https://takouajendoubi.github.io/) and [Dr. Alejandro Díaz](https://profiles.ucl.ac.uk/72757). In the past, I have worked as a data scientist at companies such as [Revolut](https://www.revolut.com/), [HappyFresh](https://www.happyfresh.com/), [eFishery](https://efishery.com/), and [Airy](https://www.airyrooms.com/). My research interests lie in using machine learning for healthcare and social data science. I received my MSc in Artificial Intelligence from the University of Edinburgh in 2016 and my BSc in Informatics from Institut Teknologi Bandung in 2013.
+I am currently a senior data scientist at Revolut. I am also pursuing a part-time PhD in Statistical Science at University College London, working under the supervision of [Dr. Takoua Jendoubi](https://takouajendoubi.github.io/) and [Dr. Alejandro Díaz](https://profiles.ucl.ac.uk/72757). In the past, I have worked as a data scientist at companies such as [Nokia Bell Labs](https://social-dynamics.net/), [HappyFresh](https://www.happyfresh.com/), [eFishery](https://efishery.com/), and [Airy](https://www.airyrooms.com/). My research interests lie in using machine learning for healthcare and social data science. I received my MSc in Artificial Intelligence from the University of Edinburgh in 2016 and my BSc in Informatics from Institut Teknologi Bandung in 2013.
 
 I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbars[dot]id**.
 
 ## News
 
+* Apr 2024: I rejoined Revolut!
 * Dec 2023: Our ACM FAccT 2023 paper was selected as the [Most Impactful Research Paper](https://www.responsible.ai/post/responsible-ai-institute-hosts-annual-raise-event-charting-the-future-of-responsible-ai) by Responsible AI Institute
 * Nov 2023: I gave a virtual talk at [PyCon ID 2023](https://pycon.id/)
 * Sep 2023: I gave a contributed talk at [RSS International Conference 2023](/rss23)
