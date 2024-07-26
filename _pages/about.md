@@ -12,6 +12,13 @@ I am currently a senior data scientist at Revolut. I am also pursuing a part-tim
 
 I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbars[dot]id**.
 
+## Mentoring
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/ali-septiandri/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## News
 
 * Apr 2024: I rejoined Revolut!
