@@ -14,10 +14,9 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## Mentoring
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/ali-septiandri/30min" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ07nbMxRpD3sjKKRAwJihkVjSx7MpTXflp1JqOhqqJz82v9qQm4hC76vOMqfvRmTLT2ooMgEA2N?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
 
 ## News
 
