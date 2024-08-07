@@ -12,12 +12,6 @@ I am currently a senior data scientist at Revolut. I am also pursuing a part-tim
 
 I am open for research collaboration and consultation in machine learning. E-mail me at **pm[at]aliakbars[dot]id**.
 
-## Mentoring
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ07nbMxRpD3sjKKRAwJihkVjSx7MpTXflp1JqOhqqJz82v9qQm4hC76vOMqfvRmTLT2ooMgEA2N?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
-<!-- end Google Calendar Appointment Scheduling -->
-
 ## News
 
 * Apr 2024: I rejoined Revolut!
