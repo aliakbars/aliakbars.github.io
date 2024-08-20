@@ -14,6 +14,11 @@ Pembayaran (tarif normal Rp450.000) dapat ditransfer ke no rekening yang akan sa
 > Promo!
 > Booking 2 sesi langsung @ 30 menit dengan total harga Rp600.000!
 
+## Testimoni
+
+> Jawaban narasumber cukup membantu memberikan gambaran, karena berasal dari akademia dan juga praktisi DS. Saya pribadi merasa terbantu dengan banyak saran-saran dan insight yang diberikan. Terutama terkait silabus kampus yg diuraikan. Huge thanks!
+> – Aditya Arie Wijaya
+
 <!-- Google Calendar Appointment Scheduling begin -->
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ07nbMxRpD3sjKKRAwJihkVjSx7MpTXflp1JqOhqqJz82v9qQm4hC76vOMqfvRmTLT2ooMgEA2N?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
