@@ -14,6 +14,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Oct 2024: One paper is accepted at [AIES 2024](https://social-dynamics.net/docs/rai-impact.pdf)
 * Sep 2024: Our paper about the potential impact of AI on US occupations was published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/9/pgae320/7758639)
 * Apr 2024: I rejoined Revolut!
 * Dec 2023: Our ACM FAccT 2023 paper was selected as the [Most Impactful Research Paper](https://www.responsible.ai/post/responsible-ai-institute-hosts-annual-raise-event-charting-the-future-of-responsible-ai) by Responsible AI Institute
