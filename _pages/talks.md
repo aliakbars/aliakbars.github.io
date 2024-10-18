@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Oct. 2024 [The Potential Impact of AI Innovations on US Occupations](https://academic.oup.com/pnasnexus/article/3/9/pgae320/7758639), Doctrine UK Seminar, Virtual
 * Feb. 2024 [Breaking Into Global Market, Perspective from the UK](), Night Talk, Kak! by ShiftThink, Virtual
 * Feb. 2024 [The Impact of AI Innovations on US Occupations](https://arxiv.org/abs/2312.04714), Brown Bag Seminar, Bank Indonesia Institute, Virtual
 * Nov. 2023 [Learning from tidyverse](https://docs.google.com/presentation/d/1E0b_sWPQWtrye0liRXnHYLA350d4p6js65gZZIgfwEU/edit?usp=sharing), PyCon ID 2023, Bandung, Indonesia
