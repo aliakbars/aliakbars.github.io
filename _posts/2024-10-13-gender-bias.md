@@ -1,7 +1,7 @@
 ---
 title: "Gender Bias in Intensive Care"
 date: 2024-10-13
-permalink: /posts/2023/09/missing-values
+permalink: /posts/2024/10/missing-values
 toc: true
 tags:
   - gender-bias
