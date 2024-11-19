@@ -9,11 +9,6 @@ author_profile: true
 1. Tuliskan secara lengkap pertanyaan/topik yang ingin Anda bahas.
 1. Mohon menunggu konfirmasi dari saya melalui e-mail/WhatsApp.
 
-Pembayaran (tarif normal Rp450.000) dapat ditransfer ke no rekening yang akan saya kirimkan.
-
-> Promo!
-> Booking 2 sesi langsung @ 30 menit dengan total harga Rp600.000!
-
 ## Testimoni
 
 > Jawaban narasumber cukup membantu memberikan gambaran, karena berasal dari akademia dan juga praktisi DS. Saya pribadi merasa terbantu dengan banyak saran-saran dan insight yang diberikan. Terutama terkait silabus kampus yg diuraikan. Huge thanks!
