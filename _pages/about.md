@@ -14,6 +14,8 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Feb 2025: I gave a seminar at [UCL MSc IMLS](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/integrated-machine-learning-systems-msc) about [managing AI bias in ICUs](/files/ai-bias-in-icus.pdf)
+* Jan 2025: My first article for [The Conversation](https://theconversation.com/dilema-penggunaan-ai-di-icu-rentan-picu-tindakan-medis-yang-keliru-246685) was published
 * Oct 2024: One paper is accepted at [AIES 2024](https://social-dynamics.net/docs/rai-impact.pdf)
 * Sep 2024: Our paper about the potential impact of AI on US occupations was published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/9/pgae320/7758639)
 * Apr 2024: I rejoined Revolut!
