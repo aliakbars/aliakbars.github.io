@@ -40,6 +40,7 @@ Skills
 Academic Service
 ======
 * Reviewer
+  * [CHIL](https://chil.ahli.cc/) 2025
   * [ML4H](https://ml4health.github.io) 2021, 2022, 2023
   * [TS4H](https://timeseriesforhealth.github.io/) 2022, 2024
   * [ICWSM](https://www.icwsm.org/) 2024
