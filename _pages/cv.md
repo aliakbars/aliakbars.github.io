@@ -40,13 +40,16 @@ Skills
 Academic Service
 ======
 * Reviewer
+  * [MLHC](https://www.mlforhc.org/) 2025
   * [CHIL](https://chil.ahli.cc/) 2025
   * [ML4H](https://ml4health.github.io) 2021, 2022, 2023
   * [TS4H](https://timeseriesforhealth.github.io/) 2022, 2024
   * [ICWSM](https://www.icwsm.org/) 2024
   * [IEEE ICISS](https://iciss.goesmart.id/) 2023
 * BSc thesis supervisor
-  * [Aditya P. Dharmawan](https://www.linkedin.com/in/ditzsins/) (2021; co-supervisor: Ade Jamal) - Embryo Image Segmentation with U-Net
+  * [Ubaidillah Ariq Prathama](https://www.linkedin.com/in/ubaidillah-ariq/) (2024; co-supervisor: Ayu Purwarianti) - ESG-IDX: A Framework to Utilize ESG-Related News Sentiment for Indonesia Stock Price Prediction
+  * Jefri Febriyanto (2023; co-supervisor: Ade Jamal) - Knowledge Distillation in Deep Learning-based Embryo Grading
+  * [Aditya P. Dharmawan](https://www.linkedin.com/in/ditzsins/) (2021; co-supervisor: Ade Jamal) - Embryo Image Segmentation with U-Net [[paper](https://ieeexplore.ieee.org/abstract/document/10284599)]
   * [R. Satrio H. Wicaksono](https://www.linkedin.com/in/satriohwicaksono/) (2021; co-supervisor: Ade Jamal) - Human Embryo Classification Using Self-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9574328)]
   * [Dheannisa R. Putri](https://www.linkedin.com/in/dheann/) (2020; co-supervisor: Ade Jamal) - Acute Lymphoblastic Leukemia Classification in Nucleus Microscopic Images using Convolutional Neural Networks and Transfer Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9574176?casa_token=QcS1LaHqWEIAAAAA:ucaHUbsYIujVqN_Gw8h6lbrMIfFNgPK4cuyvQUZfNuNAL4YrN2_x97SSoURuNE_nxTWw7pk)]
   * [Jordhy Fernando](https://www.linkedin.com/in/jordhyfernando/) (2019; main supervisor: Masayu Leylia Khodra) - Aspect and Opinion Terms Extraction Using Double Embeddings and Attention Mechanism for Indonesian Hotel Reviews [[paper](https://ieeexplore.ieee.org/document/8904124)] [[dataset](https://huggingface.co/datasets/indonlu)]
