@@ -14,6 +14,8 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Aug 2025: Our paper about organisational pride and psychological safety was published in [EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00576-4)
+* Jul 2025: Our paper about computer science research impact was published in [EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00568-4)
 * Apr 2025: Our paper about AI and the economic divide was published in [EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00547-9)
 * Feb 2025: I gave a seminar at [UCL MSc IMLS](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/integrated-machine-learning-systems-msc) about [managing AI bias in ICUs](/files/ai-bias-in-icus.pdf)
 * Jan 2025: My first article for [The Conversation](https://theconversation.com/dilema-penggunaan-ai-di-icu-rentan-picu-tindakan-medis-yang-keliru-246685) was published
