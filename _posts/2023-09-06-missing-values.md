@@ -46,7 +46,7 @@ In statistical modeling, it is common to encounter missing values, particularly 
 ```bibtex
 @article{septiandri2023missing,
   title   = {Handling Missing Values in Healthcare Settings},
-  author  = {Septiandri, Ali Akbar and Jendoubi, Takoua and De la O, Alejandro Díaz},
+  author  = {Septiandri, Ali Akbar and Jendoubi, Takoua and DíazDelaO, F. Alejandro},
   year    = 2023,
   month   = {September},
   url     = {https://aliakbars.id/posts/2023/09/missing-values}
