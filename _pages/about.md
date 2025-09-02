@@ -14,6 +14,7 @@ I am open for research collaboration and consultation in machine learning. E-mai
 
 ## News
 
+* Sep 2025: I gave a contributed talk at [RSS International Conference 2025](/rss25)
 * Aug 2025: Our paper about organisational pride and psychological safety was published in [EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00576-4)
 * Jul 2025: Our paper about computer science research impact was published in [EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00568-4)
 * Apr 2025: Our paper about AI and the economic divide was published in [EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00547-9)

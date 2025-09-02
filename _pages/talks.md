@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Sep. 2025 [Integrative Analysis of Multiple Data Streams in Critical Care Medicine via Deep Gaussian Processes with Stochastic Imputation](/rss25), RSS International Conference 2025, Edinburgh, United Kingdom
 * Feb. 2025 [Critical Decisions: Managing AI Bias in Intensive Care Settings](/files/ai-bias-in-icus.pdf), Integrated Machine Learning Systems MSc, University College London, Virtual
 * Oct. 2024 [The Potential Impact of AI Innovations on US Occupations](https://academic.oup.com/pnasnexus/article/3/9/pgae320/7758639), Doctrine UK Seminar, Virtual
 * Feb. 2024 [Breaking Into Global Market, Perspective from the UK](), Night Talk, Kak! by ShiftThink, Virtual
